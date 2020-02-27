@@ -2,6 +2,8 @@
 
 ## Overview
 
+This is a project that I am working on in CPSC 210 at UBC.
+
 This project will aim at creating an application that lets you play card games with other people.
 From Go Fish, to Blackjack, to President and more, this application essentially allows you to simulate a deck of cards to play those games.
 
