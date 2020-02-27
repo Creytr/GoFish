@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b68052e-9845-426a-a6cf-e3d3279fd191" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XCXk1JCOzRCqqbgu5fpJU0Sifl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestCard" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestGame" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestHand" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="persistance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="persistance" />
+      <option name="MAIN_CLASS_NAME" value="persistance.TestReader" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestReader" />
+        <item itemvalue="JUnit.TestCard" />
+        <item itemvalue="JUnit.TestGame" />
+        <item itemvalue="JUnit.TestHand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b68052e-9845-426a-a6cf-e3d3279fd191" name="Default Changelist" comment="" />
+      <created>1580551189092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580551189092</updated>
+    </task>
+    <task id="LOCAL-00001" summary="README.md - Wrote the README and added possible games to program.">
+      <created>1580552983031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580552983031</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Card - Programmed basics of what a card should have (suit and rank)&#10;CardPile - Made it abstract and put reused methods in it&#10;Deck - Extends CardPile and added shuffle stub&#10;Hand - Extends CardPile and has a player option&#10;Game - Created the class&#10;&#10;README.md - Added user stories">
+      <created>1580592192886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580592192886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Card - Added possibility of Joker&#10;CardPile - Made it not abstract and added a constructor&#10;Deck - Added option to create a deck with jokers or without and changed some basic implementations&#10;Hand - Made the toString more clear to read and changed some basic implementation&#10;Game - Deleted the class&#10;&#10;Main - Started to create a basic console UI&#10;&#10;TestCard - Added tests for Card class&#10;TestCardPile - Added tests for CardPile class and made it abstract&#10;TestHand - Added tests for Hand class, extending testCardPile&#10;TestDeck - Added tests for Deck class, extending testDeck">
+      <created>1580792206697</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580792206697</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Card - added basic documentation&#10;CardPile - added basic documentation&#10;Deck - added basic documentation&#10;Game - readded the class and programmed it so it contains a deck, has a list of hands, and keeps track of the turn&#10;Hand - added basic documentation&#10;&#10;TestGame - created tests for the game class">
+      <created>1581313463026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581313463026</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Game - added a method to play a card from current player's hand&#10;&#10;Main - programmed the initializing method and a while loop for running the game">
+      <created>1581372812309</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581372812309</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Game - changed the documentation for playCard&#10;&#10;testGame - added test for playCard">
+      <created>1581373494716</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581373494716</updated>
+    </task>
+    <task id="LOCAL-00007" summary="User Stories - added basic ones for phase 2">
+      <created>1582534961850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582534961850</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Card - added methods needed to read and write a card's information using few characters&#10;CardPile - added constructor to set a CardPile to a list of cards&#10;Deck - added constructor to set a Deck to a list of cards&#10;Game - added methods to allow the game to save its data to a file&#10;Hand - added constructor to set a Hand to a list of cards and a name&#10;Reader - programmed the reading from a file part of phase 2&#10;Main - allows for user to read from and save to a file">
+      <created>1582590516609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582590516609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="testCard - added tests to the constructor and shorten method&#10;testDeck - added tests for the constructor&#10;testGame - added tests for the constructor and added tests for saving&#10;testHand - added tests for the constructor&#10;testReader - added tests for reading from a file">
+      <created>1582603237791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582603237791</updated>
+    </task>
+    <task id="LOCAL-00010" summary="testGame - fixed a bug where I was checking the wrong assertions">
+      <created>1582604444628</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582604444628</updated>
+    </task>
+    <task id="LOCAL-00011" summary="testCard - fixed code coverage issue">
+      <created>1582604926050</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582604926050</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Card - fixed code coverage issue this time&#10;TestReader - fixed code coverage issue">
+      <created>1582606497522</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582606497522</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Game, Main, TestGame - try/catch the exceptions in the test/main classes instead of the game class">
+      <created>1582606868245</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582606868245</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README.md - Wrote the README and added possible games to program." />
+    <MESSAGE value="Card - Programmed basics of what a card should have (suit and rank)&#10;CardPile - Made it abstract and put reused methods in it&#10;Deck - Extends CardPile and added shuffle stub&#10;Hand - Extends CardPile and has a player option&#10;Game - Created the class&#10;&#10;README.md - Added user stories" />
+    <MESSAGE value="Card - Added possibility of Joker&#10;CardPile - Made it not abstract and added a constructor&#10;Deck - Added option to create a deck with jokers or without and changed some basic implementations&#10;Hand - Made the toString more clear to read and changed some basic implementation&#10;Game - Deleted the class&#10;&#10;Main - Started to create a basic console UI&#10;&#10;TestCard - Added tests for Card class&#10;TestCardPile - Added tests for CardPile class and made it abstract&#10;TestHand - Added tests for Hand class, extending testCardPile&#10;TestDeck - Added tests for Deck class, extending testDeck" />
+    <MESSAGE value="Card - added basic documentation&#10;CardPile - added basic documentation&#10;Deck - added basic documentation&#10;Game - readded the class and programmed it so it contains a deck, has a list of hands, and keeps track of the turn&#10;Hand - added basic documentation&#10;&#10;TestGame - created tests for the game class" />
+    <MESSAGE value="Game - added a method to play a card from current player's hand&#10;&#10;Main - programmed the initializing method and a while loop for running the game" />
+    <MESSAGE value="Game - changed the documentation for playCard&#10;&#10;testGame - added test for playCard" />
+    <MESSAGE value="User Stories - added basic ones for phase 2" />
+    <MESSAGE value="Card - added methods needed to read and write a card's information using few characters&#10;CardPile - added constructor to set a CardPile to a list of cards&#10;Deck - added constructor to set a Deck to a list of cards&#10;Game - added methods to allow the game to save its data to a file&#10;Hand - added constructor to set a Hand to a list of cards and a name&#10;Reader - programmed the reading from a file part of phase 2&#10;Main - allows for user to read from and save to a file" />
+    <MESSAGE value="testCard - added tests to the constructor and shorten method&#10;testDeck - added tests for the constructor&#10;testGame - added tests for the constructor and added tests for saving&#10;testHand - added tests for the constructor&#10;testReader - added tests for reading from a file" />
+    <MESSAGE value="testGame - fixed a bug where I was checking the wrong assertions" />
+    <MESSAGE value="testCard - fixed code coverage issue" />
+    <MESSAGE value="Card - fixed code coverage issue this time&#10;TestReader - fixed code coverage issue" />
+    <MESSAGE value="Game, Main, TestGame - try/catch the exceptions in the test/main classes instead of the game class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game, Main, TestGame - try/catch the exceptions in the test/main classes instead of the game class" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="156" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582536397013">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="370" y="156" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1582536397012" />
+    <state x="92" y="92" width="1096" height="616" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580790570669">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="92" y="92" width="1096" height="616" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.800@0.0.1280.800" timestamp="1580790570669" />
+    <state x="445" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1582536163479">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="445" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1582536163479" />
+    <state x="278" y="0" key="CommitChangelistDialog2" timestamp="1582606867267">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="282" y="0" key="CommitChangelistDialog2/0.0.1280.780@0.0.1280.780" timestamp="1580592191892" />
+    <state x="278" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1582606867267" />
+    <state x="417" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581372438496" />
+    <state x="155" y="68" key="DiffContextDialog" timestamp="1580792131527">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="155" y="68" key="DiffContextDialog/0.0.1280.800@0.0.1280.800" timestamp="1580792131527" />
+    <state x="420" y="126" key="FileChooserDialogImpl" timestamp="1582679772188">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="420" y="126" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1582679772188" />
+    <state x="630" y="170" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1582679701893" />
+    <state width="1259" height="145" key="GridCell.Tab.0.bottom" timestamp="1582607363889">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582607363889" />
+    <state width="1899" height="145" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582588985741" />
+    <state width="1259" height="145" key="GridCell.Tab.0.center" timestamp="1582607363889">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582607363889" />
+    <state width="1899" height="145" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582588985741" />
+    <state width="1259" height="145" key="GridCell.Tab.0.left" timestamp="1582607363888">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582607363888" />
+    <state width="1899" height="145" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582588985740" />
+    <state width="1259" height="145" key="GridCell.Tab.0.right" timestamp="1582607363889">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="145" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582607363889" />
+    <state width="1899" height="145" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582588985741" />
+    <state x="232" y="127" key="Vcs.Push.Dialog.v2" timestamp="1582606870131">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="232" y="124" key="Vcs.Push.Dialog.v2/0.0.1280.780@0.0.1280.780" timestamp="1580592197270" />
+    <state x="232" y="127" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1582606870131" />
+    <state x="504" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1582679290245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="215" key="com.intellij.ide.util.TipDialog/0.0.1280.780@0.0.1280.780" timestamp="1580552869967" />
+    <state x="336" y="221" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1582607414950" />
+    <state x="504" y="298" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582679290245" />
+    <state x="295" y="192" key="git4idea.merge.GitPullDialog" timestamp="1582535124305">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="295" y="192" key="git4idea.merge.GitPullDialog/0.0.1280.800@0.0.1280.800" timestamp="1582535124305" />
+    <state x="307" y="21" key="new project wizard" timestamp="1582679843479">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="307" y="21" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1582679843479" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$TestHand.ic" NAME="TestHand Coverage Results" MODIFIED="1580791264097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
